@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "accounts": {
     "userdemo": {
-      "enabled": true
+      "enabled": false
     }
   }
 }
