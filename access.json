@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "accounts": {
-    "userdemod": {
-      "enabled": false
+    "userdemo": {
+      "enabled": true
     }
   }
 }
